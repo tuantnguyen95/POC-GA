@@ -15,4 +15,11 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
+      - name: Build app 
+        run: |
+          /bin/bash scripts/build.sh
+          /bin/bash scripts/dockerize.sh
+      - name: Git tag
+          run: |
+            git rev-parse --short HEAD
       - run: echo "🍏 This job's status is ${{ job.status }}."

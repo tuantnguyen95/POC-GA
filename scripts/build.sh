@@ -1,8 +1,6 @@
 #!/bin/bash
 
 # Auto setup submodule on building (good for CI)
-git submodule init
-git submodule update
 
 # Auto compile protocol buffer code as well
 bash ./scripts/compile-protoc.sh
