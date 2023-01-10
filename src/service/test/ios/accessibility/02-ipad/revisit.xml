@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="KSL Text Alignment" label="KSL Text Alignment" enabled="true" visible="true" x="0" y="0" width="768" height="1024">
+    <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="768" height="1024">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="768" height="1024">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="768" height="1024">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="768" height="1024"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="768" height="1024">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="768" height="1024"/>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="768" height="1024">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="768" height="1024"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="768" height="1024">
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="768" height="1024"/>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="768" height="76">
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="768" height="76"/>
+                                <XCUIElementTypeButton type="XCUIElementTypeButton" name="Back" label="Back" enabled="true" visible="true" x="0" y="20" width="56" height="56"/>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" name="Test Accessibility" label="Test Accessibility" enabled="true" visible="true" x="301" y="36" width="166" height="24"/>
+                            </XCUIElementTypeOther>
+                            <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Touch Target Size (smaller then threshold - 48px):" name="Touch Target Size (smaller then threshold - 48px):" label="Touch Target Size (smaller then threshold - 48px):" enabled="true" visible="true" x="217" y="116" width="334" height="17"/>
+                            <XCUIElementTypeButton type="XCUIElementTypeButton" name="test small size" label="test small size" enabled="true" visible="true" x="371" y="133" width="26" height="25"/>
+                            <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Color contrast (lower then threshold - 4.5)" name="Color contrast (lower then threshold - 4.5)" label="Color contrast (lower then threshold - 4.5)" enabled="true" visible="true" x="244" y="198" width="280" height="17"/>
+                            <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="This text is lower contrast, It's hard to to distinguish for colorblind people" name="This text is lower contrast, It's hard to to distinguish for colorblind people" label="This text is lower contrast, It's hard to to distinguish for colorblind people" enabled="true" visible="true" x="39" y="225" width="690" height="24"/>
+                        </XCUIElementTypeOther>
+                    </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+    </XCUIElementTypeWindow>
+    <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="768" height="1024">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="768" height="1024"/>
+    </XCUIElementTypeWindow>
+    <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="768" height="1024">
+        <XCUIElementTypeStatusBar type="XCUIElementTypeStatusBar" enabled="true" visible="true" x="0" y="0" width="768" height="20">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="768" height="20"/>
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="768" height="20">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" name="10:21 PM" label="10:21 PM" enabled="true" visible="true" x="6" y="0" width="53" height="20"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="69" y="0" width="63" height="20"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" name="-1 of 4 bars, signal strength" label="-1 of 4 bars, signal strength" enabled="true" visible="true" x="650" y="0" width="17" height="20"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" value="SSID" name="3 of 3 Wi-Fi bars" label="3 of 3 Wi-Fi bars" enabled="true" visible="true" x="673" y="0" width="15" height="20"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" name="100% battery power, On AC Power" label="100% battery power, On AC Power" enabled="true" visible="true" x="694" y="0" width="70" height="20"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" name="100% battery power" label="100% battery power" enabled="true" visible="false" x="694" y="0" width="32" height="20"/>
+            </XCUIElementTypeOther>
+        </XCUIElementTypeStatusBar>
+    </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>

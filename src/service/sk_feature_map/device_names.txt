@@ -1,0 +1,1 @@
+{"LG K7": 0, "ONEPLUS GM1917": 1, "Galaxy S10": 3, "Nexus 5X": 20, "LG G4": 10, "L90": 4, "Pixel C": 5, "KEYone": 13, "Galaxy S6": 6, "LG G6": 2, "Galaxy Note4": 12, "Galaxy J7 Prime": 15, "Pixel 2 XL": 7, "Xperia XZ2 Compact": 8, "Galaxy J7 Pro": 9, "Galaxy J2 Prime": 18, "Lenovo TAB4 10": 11, "Galaxy J5 Pro": 16, "LG K5": 14, "Galaxy C5": 19, "Nexus 5": 17}

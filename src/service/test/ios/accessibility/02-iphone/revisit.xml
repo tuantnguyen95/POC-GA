@@ -1,0 +1,33 @@
+<SCREEN type="SCREEN" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+  <XCUIElementTypeApplication type="XCUIElementTypeApplication" name="KSL Text Alignment" label="KSL Text Alignment" id="KSL Text Alignment" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+    <XCUIElementTypeWindow type="XCUIElementTypeWindow" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0" />
+              <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="1">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0" />
+                <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="1">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0" />
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="1">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0" />
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="76" index="1">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="76" index="0" />
+                      <XCUIElementTypeButton type="XCUIElementTypeButton" name="Back" label="Back" id="Back" enabled="true" accessible="true" visible="true" x="0" y="20" width="56" height="56" index="1" />
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="Test Accessibility" label="Test Accessibility" id="Test Accessibility" enabled="true" accessible="true" visible="true" x="123" y="36" width="168" height="24" index="2" />
+                    </XCUIElementTypeOther>
+                    <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Touch Target Size (smaller then threshold - 48px):" name="Touch Target Size (smaller then threshold - 48px):" label="Touch Target Size (smaller then threshold - 48px):" id="Touch Target Size (smaller then threshold - 48px):" enabled="true" accessible="true" visible="true" x="41" y="116" width="331" height="17" index="2" />
+                    <XCUIElementTypeButton type="XCUIElementTypeButton" name="test small size" label="test small size" id="test small size" enabled="true" accessible="true" visible="true" x="201" y="133" width="12" height="12" index="3" />
+                    <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Color contrast (lower then threshold - 4.5)" name="Color contrast (lower then threshold - 4.5)" label="Color contrast (lower then threshold - 4.5)" id="Color contrast (lower then threshold - 4.5)" enabled="true" accessible="true" visible="true" x="66" y="185" width="281" height="17" index="4" />
+                    <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="This text is lower contrast, It's hard to to distinguish for colorblind people" name="This text is lower contrast, It's hard to to distinguish for colorblind people" label="This text is lower contrast, It's hard to to distinguish for colorblind people" id="This text is lower contrast, It's hard to to distinguish for colorblind people" enabled="true" accessible="true" visible="true" x="10" y="212" width="394" height="48" index="5" />
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeWindow>
+  </XCUIElementTypeApplication>
+</SCREEN>

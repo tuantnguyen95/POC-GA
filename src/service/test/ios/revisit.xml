@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="Hulu" label="Hulu" enabled="true" visible="true" x="0" y="0" width="414" height="896">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="414" height="896">
+    <XCUIElementTypeTable type="XCUIElementTypeTable" enabled="true" visible="true" x="0" y="0" width="414" height="896">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="414" height="896">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="414" height="896">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="414" height="896">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="414" height="896">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="414" height="896">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="414" height="896">
+                  <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" x="0" y="0" width="414" height="896"/>
+                  <XCUIElementTypeImage type="XCUIElementTypeImage" name="CC647915-E69F-4C26-9649-B161A6144D90" label="Hulu logo" enabled="true" visible="true" x="182" y="84" width="50" height="16"/>
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="30" y="347" width="354" height="515">
+                    <XCUIElementTypeTextView type="XCUIElementTypeTextView" value="There’s always something good on" enabled="true" visible="true" x="30" y="367" width="354" height="108">
+                      <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="There’s always something good on" name="There’s always something good on" label="There’s always something good on" enabled="true" visible="true" x="35" y="375" width="344" height="92"/>
+                    </XCUIElementTypeTextView>
+                    <XCUIElementTypeTextView type="XCUIElementTypeTextView" value="Stream full seasons of exclusive series, current episodes, classic favorites, Hulu Originals, hit movies, kids shows, and tons more." enabled="true" visible="true" x="30" y="474" width="354" height="213">
+                      <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Stream full seasons of exclusive series, current episodes, classic favorites, Hulu Originals, hit movies, kids shows, and tons more." name="Stream full seasons of exclusive series, current episodes, classic favorites, Hulu Originals, hit movies, kids shows, and tons more." label="Stream full seasons of exclusive series, current episodes, classic favorites, Hulu Originals, hit movies, kids shows, and tons more." enabled="true" visible="true" x="35" y="482" width="344" height="78"/>
+                    </XCUIElementTypeTextView>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="30" y="707" width="354" height="125">
+                      <XCUIElementTypeButton type="XCUIElementTypeButton" name="Start your free trial" label="Start your free trial" enabled="true" visible="true" x="30" y="707" width="354" height="65">
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Start your free trial" name="Start your free trial" label="Start your free trial" enabled="true" visible="true" x="128" y="730" width="158" height="19"/>
+                      </XCUIElementTypeButton>
+                      <XCUIElementTypeButton type="XCUIElementTypeButton" name="Log in" label="Log in" enabled="true" visible="true" x="30" y="772" width="354" height="60">
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Log in" name="Log in" label="Log in" enabled="true" visible="true" x="181" y="793" width="52" height="18"/>
+                      </XCUIElementTypeButton>
+                    </XCUIElementTypeOther>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeTable>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="414" height="896">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="414" height="896">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="414" height="896"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>

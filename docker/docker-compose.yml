@@ -1,0 +1,29 @@
+version: "3"
+services:
+  booster-ai-service:
+    container_name: booster-ai-service
+    restart: always
+    image: booster-ai-service:latest
+    environment:
+      KOBITON_AI_TF_SERVING_HOSTNAME: tensorflow
+      DEPLOY_ENV: staging
+      LOGSTASH_HOST: http://logs-dev.kobiton.com/push
+    ports:
+      - "5000:5000"
+    logging:
+      driver: local
+      options:
+        max-size: "200m"
+        max-file: "20"
+  tensorflow:
+    container_name: kobiton-tensorflow
+    restart: always
+    image: tensorflow/serving:1.12.3
+    environment:
+      MODEL_NAME: element_embeddings
+    volumes:
+      - "${BOOSTER_AI_HOME_DIR}/booster-ai-service.model/src/service/visual_models/:/models/element_embeddings"
+    logging:
+      driver: local
+      options:
+        max-size: "200m"

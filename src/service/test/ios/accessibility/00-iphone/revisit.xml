@@ -1,0 +1,31 @@
+<SCREEN type="SCREEN" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+  <XCUIElementTypeApplication type="XCUIElementTypeApplication" name="UIKitCatalog" label="UIKitCatalog" id="UIKitCatalog" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+    <XCUIElementTypeWindow type="XCUIElementTypeWindow" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+          <XCUIElementTypeNavigationBar type="XCUIElementTypeNavigationBar" name="UIView" label="" id="UIView" enabled="true" visible="true" x="0" y="20" width="414" height="44" index="0">
+            <XCUIElementTypeButton type="XCUIElementTypeButton" name="UIKitCatalog" label="UIKitCatalog" id="UIKitCatalog" enabled="true" accessible="true" visible="true" x="12" y="26" width="115" height="30" index="0" />
+          </XCUIElementTypeNavigationBar>
+          <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="1">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+                      <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Explore UIKit controls as you navigate UIKitCatalog. For more information on how UIKitCatalog is structured, consult the ReadMe." name="Explore UIKit controls as you navigate UIKitCatalog. For more information on how UIKitCatalog is structured, consult the ReadMe." label="Explore UIKit controls as you navigate UIKitCatalog. For more information on how UIKitCatalog is structured, consult the ReadMe." id="Explore UIKit controls as you navigate UIKitCatalog. For more information on how UIKitCatalog is structured, consult the ReadMe." enabled="true" accessible="true" visible="true" x="10" y="74" width="394" height="652" index="0" />
+                    </XCUIElementTypeOther>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeWindow>
+    <XCUIElementTypeWindow type="XCUIElementTypeWindow" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="1">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="736" index="0" />
+      </XCUIElementTypeOther>
+    </XCUIElementTypeWindow>
+  </XCUIElementTypeApplication>
+</SCREEN>

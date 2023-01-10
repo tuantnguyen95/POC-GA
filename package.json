@@ -1,0 +1,19 @@
+{
+  "name": "@kobiton/booster-ai-service",
+  "private": true,
+  "version": "0.0.1",
+  "description": "The AI service supports finding UI element",
+  "author": "Kobiton Inc.",
+  "main": "build/index.js",
+  "scripts": {
+    "postinstall": "pip install -r requirements.txt; git submodule init",
+    "update-schema": "git submodule sync; git submodule update --remote --checkout schema; bash ./scripts/compile-protoc.sh",
+    "build": "bash ./scripts/build.sh",
+    "run-tfserving-docker": "bash ./scripts/run_serving_docker.sh `pwd`/src/service/visual_models",
+    "run-service": "bash ./scripts/run_ai_service.sh",
+    "run-training": "bash ./scripts/run_training_model.sh",
+    "dockerize": "bash ./scripts/dockerize.sh",
+    "benchmark": "bash ./scripts/run_benchmark.sh",
+    "pylint-service": "pylint ./src/service/*.py"
+  }
+}

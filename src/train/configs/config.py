@@ -1,0 +1,27 @@
+import sys
+screen_size = 299
+element_size = 160
+channel = 3
+batch_size = 128
+epochs = 10
+patience = 3
+emb_size = 40
+char_emb_dim = 10
+token_emb_dim = 40
+alpha = 0.7
+SENTINEL = 1
+threshold = 0.8
+fine_tune_at = 100
+drop_rate=0.6
+weight_decay=2e-5
+use_xpath = False
+max_xpath_len = 60
+use_element_img = True
+use_vertical_cut = False
+use_horizontal_cut = False
+trainCsv = 'train/data/train.csv'
+testCsv = '/Users/hoavu/workplace/tools-ml/tools/common-tools/src/ml-models/data/test.csv'
+valCsv = 'train/data/valid.csv'
+rawDataPath = '/Users/hoavu/workplace/tools-ml/tools/common-tools/src/ml-models/data/'
+char_path = 'train/models/char.vocab'
+token_path = 'train/models/token.vocab'

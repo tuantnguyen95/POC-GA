@@ -1,0 +1,72 @@
+<SCREEN type="SCREEN" enabled="true" visible="true" x="0" y="0" width="414" height="896" index="0">
+  <XCUIElementTypeApplication type="XCUIElementTypeApplication" name="KitCatalog" label="KitCatalog" id="KitCatalog" enabled="true" visible="true" x="0" y="0" width="414" height="896" index="0">
+    <XCUIElementTypeWindow type="XCUIElementTypeWindow" label="" enabled="true" visible="true" x="0" y="0" width="414" height="896" index="0">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="896" index="0">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="896" index="0">
+          <XCUIElementTypeNavigationBar type="XCUIElementTypeNavigationBar" name="Search" label="" id="Search" enabled="true" visible="true" x="0" y="44" width="414" height="44" index="0">
+            <XCUIElementTypeButton type="XCUIElementTypeButton" name="KitCatalog" label="KitCatalog" id="KitCatalog" enabled="true" accessible="true" visible="true" x="0" y="44" width="110" height="44" index="0" />
+            <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Search" name="Search" label="Search" id="Search" enabled="true" accessible="true" visible="true" x="179" y="54" width="55" height="23" index="1" />
+          </XCUIElementTypeNavigationBar>
+          <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="896" index="1">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="896" index="0">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="896" index="0">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="896" index="0">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="896" index="0">
+                    <XCUIElementTypeTable type="XCUIElementTypeTable" label="" enabled="true" visible="true" x="0" y="0" width="414" height="896" index="0">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="Search Bars" label="" id="Search Bars" enabled="true" visible="true" x="0" y="88" width="414" height="22" index="0">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="Search Bars" label="Search Bars" id="Search Bars" enabled="true" accessible="true" visible="true" x="0" y="88" width="414" height="22" index="0" />
+                      </XCUIElementTypeOther>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" label="" enabled="true" visible="true" x="0" y="110" width="414" height="44" index="1">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="15" y="153" width="360" height="1" index="0" />
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Default" name="Default" label="Default" id="Default" enabled="true" accessible="true" visible="true" x="20" y="116" width="52" height="19" index="1" />
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DefaultSearchBarViewController" name="DefaultSearchBarViewController" label="DefaultSearchBarViewController" id="DefaultSearchBarViewController" enabled="true" accessible="true" visible="true" x="20" y="135" width="169" height="13" index="2" />
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="20" y="153" width="394" height="0" index="3" />
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" id="chevron" visible="true" x="382" y="125" width="11" height="14" index="4" />
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" label="" enabled="true" visible="true" x="0" y="154" width="414" height="44" index="2">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="197" width="414" height="0" index="0" />
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="15" y="197" width="360" height="1" index="1" />
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Custom" name="Custom" label="Custom" id="Custom" enabled="true" accessible="true" visible="true" x="20" y="160" width="56" height="19" index="2" />
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="CustomSearchBarViewController" name="CustomSearchBarViewController" label="CustomSearchBarViewController" id="CustomSearchBarViewController" enabled="true" accessible="true" visible="true" x="20" y="179" width="171" height="13" index="3" />
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" id="chevron" visible="true" x="382" y="169" width="11" height="14" index="4" />
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="Search Controllers" label="" id="Search Controllers" enabled="true" visible="true" x="0" y="198" width="414" height="22" index="3">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="Search Controllers" label="Search Controllers" id="Search Controllers" enabled="true" accessible="true" visible="true" x="0" y="198" width="414" height="22" index="0" />
+                      </XCUIElementTypeOther>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" label="" enabled="true" visible="true" x="0" y="220" width="414" height="44" index="4">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="15" y="263" width="360" height="1" index="0" />
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Present Over Navigation Bar" name="Present Over Navigation Bar" label="Present Over Navigation Bar" id="Present Over Navigation Bar" enabled="true" accessible="true" visible="true" x="20" y="226" width="204" height="19" index="1" />
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="SearchPresentOverNavigationBarViewController" name="SearchPresentOverNavigationBarViewController" label="SearchPresentOverNavigationBarViewController" id="SearchPresentOverNavigationBarViewController" enabled="true" accessible="true" visible="true" x="20" y="245" width="252" height="13" index="2" />
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="20" y="263" width="394" height="0" index="3" />
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" id="chevron" visible="true" x="382" y="235" width="11" height="14" index="4" />
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" label="" enabled="true" visible="true" x="0" y="264" width="414" height="44" index="5">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="15" y="307" width="360" height="1" index="0" />
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Search Bar Embedded in Navigation Bar" name="Search Bar Embedded in Navigation Bar" label="Search Bar Embedded in Navigation Bar" id="Search Bar Embedded in Navigation Bar" enabled="true" accessible="true" visible="true" x="20" y="270" width="289" height="19" index="1" />
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="SearchBarEmbeddedInNavigationBarController" name="SearchBarEmbeddedInNavigationBarController" label="SearchBarEmbeddedInNavigationBarController" id="SearchBarEmbeddedInNavigationBarController" enabled="true" accessible="true" visible="true" x="20" y="289" width="245" height="13" index="2" />
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="20" y="307" width="394" height="0" index="3" />
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" id="chevron" visible="true" x="382" y="279" width="11" height="14" index="4" />
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" label="" enabled="true" visible="true" x="0" y="308" width="414" height="44" index="6">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="15" y="351" width="360" height="1" index="0" />
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Results in Searched Controller" name="Results in Searched Controller" label="Results in Searched Controller" id="Results in Searched Controller" enabled="true" accessible="true" visible="true" x="20" y="314" width="218" height="19" index="1" />
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="SearchShowResultsInSourceViewController" name="SearchShowResultsInSourceViewController" label="SearchShowResultsInSourceViewController" id="SearchShowResultsInSourceViewController" enabled="true" accessible="true" visible="true" x="20" y="333" width="226" height="13" index="2" />
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="20" y="351" width="394" height="0" index="3" />
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="chevron" label="chevron" id="chevron" visible="true" x="382" y="323" width="11" height="14" index="4" />
+                      </XCUIElementTypeCell>
+                    </XCUIElementTypeTable>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeWindow>
+    <XCUIElementTypeWindow type="XCUIElementTypeWindow" label="" enabled="true" visible="true" x="0" y="0" width="414" height="896" index="1">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="896" index="0">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" label="" enabled="true" visible="true" x="0" y="0" width="414" height="896" index="0" />
+      </XCUIElementTypeOther>
+    </XCUIElementTypeWindow>
+  </XCUIElementTypeApplication>
+</SCREEN>

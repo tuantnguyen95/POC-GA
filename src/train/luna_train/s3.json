@@ -1,0 +1,6 @@
+{
+  "s3_bucket_name":"kobiton-devvn",
+  "s3_folder": "AI/luna_data/",
+  "aws_access_key_id":"",
+  "aws_secret_access_key":""
+}

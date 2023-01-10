@@ -1,0 +1,82 @@
+{
+  "VISUAL": {
+    "second_pass": [
+      [
+        0.05,
+        0.2
+      ],
+      [
+        0.2,
+        0.5
+      ],
+      [
+        0.4,
+        0.95
+      ]
+    ],
+    "marker_lower": 0.65,
+    "marker_threshold_step": 0.1,
+    "no_ambiguous_threshold": 0.5,
+    "ambiguous_gap_threshold": 0.2,
+    "second_pass_ambiguous": 0.1,
+    "second_pass_ambiguous_left": 0.05
+  },
+  "KEYBOARD": {
+    "second_pass": [
+      [
+        0.05,
+        0.2
+      ],
+      [
+        0.2,
+        0.5
+      ],
+      [
+        0.4,
+        0.95
+      ]
+    ],
+    "marker_lower": 0.5,
+    "marker_threshold_step": 0.1,
+    "no_ambiguous_threshold": 0.5,
+    "ambiguous_gap_threshold": 0.01,
+    "second_pass_ambiguous": 0.03,
+    "second_pass_ambiguous_left": 0.03
+  },
+  "SCROLLABLE": {
+    "second_pass": [
+      [
+        0.15,
+        0.3
+      ]
+    ],
+    "marker_lower": 0.7,
+    "marker_threshold_step": 0.1,
+    "no_ambiguous_threshold": 0.5,
+    "ambiguous_gap_threshold": 0.01,
+    "second_pass_ambiguous": 0.1,
+    "second_pass_ambiguous_left": 0.05
+  },
+  "TEXTUAL": {
+    "second_pass": [
+      [
+        0.05,
+        0.45
+      ],
+      [
+        0.2,
+        0.75
+      ],
+      [
+        0.4,
+        0.95
+      ]
+    ],
+    "marker_lower": 0.7,
+    "marker_threshold_step": 0.05,
+    "no_ambiguous_threshold": 0.65,
+    "ambiguous_gap_threshold": 0.03,
+    "second_pass_ambiguous": 0.1,
+    "second_pass_ambiguous_left": 0.05
+  }
+}
