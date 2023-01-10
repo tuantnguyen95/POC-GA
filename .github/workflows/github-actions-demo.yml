@@ -20,6 +20,6 @@ jobs:
           /bin/bash scripts/build.sh
           /bin/bash scripts/dockerize.sh
       - name: Git tag
-          run: |
-            git rev-parse --short HEAD
+        run: |
+          git rev-parse --short HEAD
       - run: echo "🍏 This job's status is ${{ job.status }}."
